@@ -1,0 +1,23 @@
+[
+  {
+    "id": "06883598-9d86-4a37-9a5b-56214ea70a9d",
+    "name": "Sentra",
+    "releaseYear": 2022,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "21c7c4ed-7e0e-404c-b1f9-218762c9e31c",
+    "name": "Roadster",
+    "releaseYear": 2022,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "83668278-464c-49c0-a418-5b9a4bf2f501",
+    "name": "Roadster",
+    "releaseYear": 2022,
+    "available": true,
+    "gasAvailable": true
+  }
+]

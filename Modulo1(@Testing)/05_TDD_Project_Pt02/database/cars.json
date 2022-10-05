@@ -1,0 +1,23 @@
+[
+  {
+    "id": "194ded19-7c59-4aff-89d6-c5710909f136",
+    "name": "Alpine",
+    "releaseYear": 2022,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "706e2708-b8b0-49ea-91be-168c63e1c615",
+    "name": "Accord",
+    "releaseYear": 2022,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "8e176ffe-5beb-4cd4-9de6-0a0dbe05e357",
+    "name": "Altima",
+    "releaseYear": 2021,
+    "available": true,
+    "gasAvailable": true
+  }
+]

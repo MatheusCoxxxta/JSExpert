@@ -1,0 +1,1 @@
+{"processes":{"30951359-379d-48c5-8428-667954bb3120":{"parent":"7f22c7fc-83ab-4837-9dd1-8433ede387a9","children":[]},"7f22c7fc-83ab-4837-9dd1-8433ede387a9":{"parent":null,"children":["30951359-379d-48c5-8428-667954bb3120"]}},"files":{"/home/matheus/Study/JSExpet/Modulo1(@Testing)/04_Coverage_e2e/api.js":["30951359-379d-48c5-8428-667954bb3120"]},"externalIds":{}}
